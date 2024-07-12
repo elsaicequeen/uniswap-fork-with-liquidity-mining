@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "git": "^0.1.5"
+  }
+}
